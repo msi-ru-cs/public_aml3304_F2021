@@ -7,7 +7,7 @@ tokens = nltk.word_tokenize(sentence)
 print(tokens)
 
 
-x = np.array([2, 3])
+x = np.array([2, 5])
 a = x[0]
 b = x[1]
 c = a + b
